@@ -1,3 +1,8 @@
-console.log("Hello world");
-console.long("322")
-
+console.log(typeof `Hello world! ${322/2}`)
+console.log(typeof (322/2))
+console.log("344"-22)
+console.log("300"+22)
+console.log("322"*null)
+console.log(null || "gaben")
+console.log(100 || 101)
+console.log(100 ?? 101)
